@@ -310,3 +310,18 @@ header.masthead p {
 .btn-primary:active, .btn-primary:focus {
   box-shadow: 0 0 0 0.2rem rgba(240, 95, 64, 0.5) !important;
 }
+.site-footer {
+  padding: 1em 1em 2em 1em;
+  background-color: #545454;
+  color: #fff;
+}
+.site-footer .site-contact {
+  margin-top: 1em;
+  float: left;
+  display: block;
+  margin-right: 2.3576515979%;
+  width: 100%;
+  font-size: 0.9em;
+}
+@import url('https://cdn.rawgit.com/singihae/Webfonts/master/style.css');
+
