@@ -18,6 +18,6 @@
   - CodeIgniter, BootStrap, jQuery, Vue.js
   
 * 취업 희망분야
-  - 웹 백엔드, 모바일
+  - 웹 백엔드, (iOS, 안드로이드)모바일
   
  
