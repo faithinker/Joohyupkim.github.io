@@ -19,5 +19,7 @@
   
 * 취업 희망분야
   - 웹 백엔드, (iOS, 안드로이드)모바일
-  
+ -----------
  
+Link: [Naver][naverlink]
+[naverlink]: https://blog.naver.com/rlawnguq12 "김주협이 살아온 흔적"
