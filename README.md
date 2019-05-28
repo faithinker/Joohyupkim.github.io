@@ -13,7 +13,7 @@
 * 관심언어
   - 자바, 자바스크립트, Swift
 * 사용언어 
-  - C/C++/C#, PHP, Java, Swift 
+  - C/C++/C#, PHP, Java
   
   
 * 취업 희망분야
