@@ -11,9 +11,9 @@
 2019년 6월 현재 상황
 
 * 관심언어
-  - 자바, 자바스크립트, Swift-
+  - 자바, 자바스크립트, Swift
 * 사용언어 
-  - C/C++/C#, PHP, Java, Swift - 
+  - C/C++/C#, PHP, Java, Swift 
   
   
 * 취업 희망분야
