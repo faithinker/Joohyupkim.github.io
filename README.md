@@ -19,7 +19,7 @@
   - CodeIgniter, [jQuery](https://jquery.com/), [BootStrap](https://getbootstrap.com/), [moment.js](https://github.com/moment/moment), [slick.js](https://github.com/kenwheeler/slick), [fontawesome](https://fontawesome.com)
   
 * 취업 희망분야
-  - 웹 백엔드(PHP, Java), iOS 모바일(Swift 개발자) 
+  - 웹 백엔드(PHP, Jsp), iOS 모바일(Swift 개발자) 
   
 <br>
 
