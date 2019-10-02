@@ -18,7 +18,7 @@
 * 사용 프레임워크/라이브러리
   - CodeIgniter, [jQuery](https://jquery.com/), [BootStrap](https://getbootstrap.com/), [moment.js](https://github.com/moment/moment), [slick.js](https://github.com/kenwheeler/slick), [fontawesome](https://fontawesome.com)
   
-  * 사용 IDE
+* 사용 IDE
    - VScode, Visual Studio, Eclipse, InteliJ IDEA, Xcode, Editplus, notepad++
   
 * 취업 희망분야
