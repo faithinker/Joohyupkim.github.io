@@ -16,7 +16,7 @@
   - C/C++/C#, PHP, Java, JavaScripts
   
 * 사용 프레임워크/라이브러리
-  - CodeIgniter, jQuery, BootStrap, moment.js, slick.js, fontawesome
+  - CodeIgniter, [jQuery](https://jquery.com/), [BootStrap](https://getbootstrap.com/), [moment.js](https://github.com/moment/moment), [slick.js](https://github.com/kenwheeler/slick), [fontawesome](https://fontawesome.com)
   
 * 취업 희망분야
   - 웹 백엔드, iOS모바일 
