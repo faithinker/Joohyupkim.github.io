@@ -14,11 +14,12 @@
   - 자바, 자바스크립트, Swift
 * 사용 언어 
   - C/C++/C#, PHP, Java, JavaScripts
+  
 * 사용 프레임워크/라이브러리
-  - CodeIgniter, BootStrap, jQuery
+  - CodeIgniter, jQuery, BootStrap, moment.js, slick.js, fontawesome
   
 * 취업 희망분야
-  - 웹 백엔드, (iOS, 안드로이드)모바일
+  - 웹 백엔드, iOS모바일 
   
 <br>
 
